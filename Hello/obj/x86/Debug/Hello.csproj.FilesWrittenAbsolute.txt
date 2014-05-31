@@ -1,0 +1,5 @@
+/home/hwloidl/Projects/Hello/Hello/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/hwloidl/Projects/Hello/Hello/bin/Debug/Hello.exe.mdb
+/home/hwloidl/Projects/Hello/Hello/bin/Debug/Hello.exe
+/home/hwloidl/Projects/Hello/Hello/obj/x86/Debug/Hello.exe
+/home/hwloidl/Projects/Hello/Hello/obj/x86/Debug/Hello.exe.mdb
